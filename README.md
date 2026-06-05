@@ -26,7 +26,7 @@ Incident Overview: <br/>
 <br />
 <br />
 Solution of a work email integration Ticket:  <br/>
-<img src="https://i.imgur.com/7nGvMZY.png" height="80%" width="80%" alt="Servicedesk Simulator"/>
+<img src="https://i.imgur.com/S21URtX.png" height="80%" width="80%" alt="Servicedesk Simulator"/>
 <br />
 <br />
 Documentation of Work Email Integration Ticket: <br/>
